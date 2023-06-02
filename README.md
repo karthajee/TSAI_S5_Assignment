@@ -45,4 +45,4 @@ The notebook imports the necessary libraries and can be executed from start to f
 
 As Rohan mentioned in the class, refactoring leads to massive efficiency and efficacy gains. This is even more salient during the initial stages of the project itself. Otherwise:
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVmOGY1NTZkYjM3YjE0ZmE3OWY1MzE2MGUwZTJmN2MyODhlYWUyZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0MYOGb8rqLOug1gY/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgzYTAyNmUwYmNhNWYyYWUwMWFhYmMyMGEzNTg0Yjc2MzNlZDUyZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0HlGmv4WqldO9c5y/giphy.gif)
