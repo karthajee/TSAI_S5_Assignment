@@ -1,5 +1,6 @@
 import torch
 from torchvision import datasets, transforms
+import matplotlib.pyplot as plt
 
 def create_train_test_dataset():
   
