@@ -31,7 +31,7 @@ Estimated Total Size (MB): 2.94
 ----------------------------------------------------------------
 ```
 
-This model can work with any dataset containing (28, 28) images and 10 class labels. Certain changes were made to the Session 4 code to make this separation executable. For e.g., the function definition of `train(...)` was altered to accept lists to store accuracy and loss values. It can be argued that train and test functionality should be included in utility because it is "model-agnostic" - I fall on the other side of the argument as they are fundamental to actual model usage.
+This model can work with any dataset containing (28, 28) images and 10 class labels. Certain changes were made to the Session 4 code to make this separation executable. For e.g., the function definition of `train(...)` was altered to accept lists to store accuracy and loss values. It can be argued that train and test functionality should be included in utility because it is "model-agnostic" - I fall on the other side of the argument as they are fundamental to actual model usage
 
 ## `utils.py`
 
@@ -39,10 +39,10 @@ The assignment requires us to work on the MNIST dataset. This script contains co
 
 ## `S5.ipynb`
 
-The notebook imports the necessary libraries and can be executed from start to finish with "Run All"
+The notebook imports the necessary libraries and can be executed from start to finish to produce equivalent results to Session 4 assignment
 
 ## Parting Thoughts
 
 As Rohan mentioned in the class, refactoring leads to massive efficiency and efficacy gains. This is even more salient during the initial stages of the project itself. Otherwise:
 
-![](https://giphy.com/gifs/season-1-netflix-stranger-things-l0MYOGb8rqLOug1gY)
+![]([https://giphy.com/gifs/season-1-netflix-stranger-things-l0MYOGb8rqLOug1gY](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVmOGY1NTZkYjM3YjE0ZmE3OWY1MzE2MGUwZTJmN2MyODhlYWUyZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0MYOGb8rqLOug1gY/giphy.gif))
